@@ -1,6 +1,14 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ fixQuad()
+comment0.target=Quad
+comment0.text=\n\ @author\ \:\ \ D.\ Appel\n
 comment1.params=
-comment1.target=void\ printFixes()
-numComments=2
+comment1.target=void\ fixQuad()
+comment2.params=
+comment2.target=void\ turnRight()
+comment3.params=
+comment3.target=void\ turn180()
+comment4.params=amount
+comment4.target=void\ move(int)
+comment5.params=
+comment5.target=void\ printFixes()
+numComments=6
